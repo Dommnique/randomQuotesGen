@@ -1,0 +1,38 @@
+body{
+    background-color: #393646;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container{
+    background-color: #6D5D6E;
+    border: 5px solid #F4EEE0;
+    height: 250px;
+    width: 700px;
+    text-align: center;
+}
+
+#btn{
+    height: 35px;
+    width: 150px;
+    margin: 50px auto;
+    border-radius: 10px;
+    font-size: 15px;
+    background-color: #F4EEE0;
+    color: #393646;
+}
+
+#output{
+    color: #F4EEE0;
+    font-size: 22px;
+}
+
+.styling{
+    font-size: 22px;
+    text-transform: capitalize;
+}
